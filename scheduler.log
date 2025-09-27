@@ -1,0 +1,52 @@
+2025-09-27 14:06:19,536 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:06:19,536 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:06:20,805 - INFO - Git pull successful
+2025-09-27 14:06:20,856 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:06:20,892 - ERROR - Git operation failed: Command '['git', 'add', 'src/test1.txt', 'src/text2.txt']' returned non-zero exit status 128.
+2025-09-27 14:06:20,892 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Check-in status updated to: failed
+2025-09-27 14:06:20,892 - INFO - [Job 2 | Row 2 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:06:20,892 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:06:22,230 - INFO - Git pull successful
+2025-09-27 14:06:22,273 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:06:22,323 - ERROR - Git operation failed: Command '['git', 'add', 'src/test3.txt']' returned non-zero exit status 128.
+2025-09-27 14:06:22,323 - INFO - [Job 2 | Row 2 | Date 2025-09-27] Check-in status updated to: failed
+2025-09-27 14:09:00,233 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:09:00,234 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:09:01,552 - INFO - Git pull successful
+2025-09-27 14:09:01,589 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:09:01,639 - ERROR - Git operation failed: Command '['git', 'add', 'src/test1.txt', 'src/text2.txt']' returned non-zero exit status 128.
+2025-09-27 14:09:01,639 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Check-in status updated to: failed
+2025-09-27 14:09:01,639 - INFO - [Job 2 | Row 2 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:09:01,639 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:09:03,000 - INFO - Git pull successful
+2025-09-27 14:09:03,042 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:09:03,089 - INFO - Added files: ['src/test3.txt']
+2025-09-27 14:09:03,185 - INFO - Committed with message: added text 3
+2025-09-27 14:09:05,652 - INFO - Git push successful
+2025-09-27 14:09:05,653 - INFO - [Job 2 | Row 2 | Date 2025-09-27] Check-in status updated to: successful
+2025-09-27 14:14:10,015 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:14:10,015 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:14:11,304 - INFO - Git pull successful
+2025-09-27 14:14:11,348 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:14:11,399 - INFO - Added files: ['src/test1.txt', 'src/test2.txt']
+2025-09-27 14:14:11,483 - INFO - Committed with message: added text 1 and text 2
+2025-09-27 14:14:13,883 - INFO - Git push successful
+2025-09-27 14:14:13,891 - INFO - [Job 1 | Row 1 | Date 2025-09-27] Check-in status updated to: successful
+2025-09-27 14:14:23,233 - INFO - No scheduled or failed jobs found for date 2025-09-27. Nothing to process.
+2025-09-27 14:14:36,399 - INFO - No scheduled or failed jobs found for date 2025-09-27. Nothing to process.
+2025-09-27 14:21:17,952 - INFO - [Job 1 | Row 3 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:21:17,952 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo1
+2025-09-27 14:21:19,246 - INFO - Git pull successful
+2025-09-27 14:21:19,290 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo1
+2025-09-27 14:21:19,340 - INFO - Added files: ['src/test4.txt']
+2025-09-27 14:21:19,423 - INFO - Committed with message: added text 4
+2025-09-27 14:21:21,866 - INFO - Git push successful
+2025-09-27 14:21:21,866 - INFO - [Job 1 | Row 3 | Date 2025-09-27] Check-in status updated to: successful
+2025-09-27 14:21:21,866 - INFO - [Job 2 | Row 4 | Date 2025-09-27] Processing check-in for workspace: C:/AI-POCs/schedule-checkin-util-testrepo2
+2025-09-27 14:21:21,866 - INFO - Running git commands in workspace: C:/AI-POCs/schedule-checkin-util-testrepo2
+2025-09-27 14:21:23,229 - INFO - Git pull successful
+2025-09-27 14:21:23,276 - INFO - Set remote URL to https://github.com/nirmalj2002/schedule-checkin-util-testrepo2
+2025-09-27 14:21:23,324 - INFO - Added files: ['src/test1.txt']
+2025-09-27 14:21:23,416 - INFO - Committed with message: added text 1
+2025-09-27 14:21:25,810 - INFO - Git push successful
+2025-09-27 14:21:25,811 - INFO - [Job 2 | Row 4 | Date 2025-09-27] Check-in status updated to: successful
